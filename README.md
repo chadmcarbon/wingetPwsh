@@ -1,3 +1,6 @@
+Foreground
+In my current role, reimaging computers are sometimes necessary. To improve post install efficiency, I created a simple script that automates application install of common apps for me.
+
 # wingetPwsh
 PowerShell script installing applications using the winget command.
 
