@@ -1,5 +1,5 @@
 # Foreground
-In my current role, reimaging computers are sometimes necessary. To improve post install efficiency, I created a simple script that automates application install of common apps for me.
+In my current role, reimaging computers are sometimes necessary. To improve post install efficiency, I created a simple script that automates application install of common end user apps.
 
 # wingetPwsh
 PowerShell script installing applications using the winget command.
